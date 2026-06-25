@@ -1,4 +1,8 @@
 body {
+<<<<<<< HEAD
+=======
+  text-align: center;
+>>>>>>> 11ad4b6 (refactor: Adjust items and center them)
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -12,6 +16,19 @@ img {
   font-weight: 900;
 }
 
+<<<<<<< HEAD
+=======
+.flowers {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.one {
+  max-width: 200px;
+}
+
+>>>>>>> 11ad4b6 (refactor: Adjust items and center them)
 /* do not edit this footer */
 .footer {
   position: fixed;
